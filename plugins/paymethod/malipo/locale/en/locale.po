@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-07T06:56:47-07:00\n"
+"PO-Revision-Date: 2024-01-07T06:56:47-07:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.paymethod.malipo.landingPage"
+msgstr "Choose Payment Method"
+
+msgid "plugins.paymethod.malipo.purchase.phoneNumber"
+msgstr "Phone Number"
+
+msgid "plugins.paymethod.malipo.purchase.fee"
+msgstr "Fee"
+
+msgid "plugins.paymethod.malipo.paymentFor"
+msgstr "Purpose"
+
+msgid "plugins.paymethod.malipo.landingPageTitle"
+msgstr "Choose A Payment Method"
+
+msgid "plugins.paymethod.malipo.displayName"
+msgstr "Mpesa Fee Payment"
+
+msgid "plugins.paymethod.malipo.description"
+msgstr "MPESA Integration for OJS"
+
+msgid "plugins.paymethod.malipo.malipo"
+msgstr "Malipo: Mpesa Fee Payment"
+
+msgid "plugins.paymethod.malipo.stripeResponse"
+msgstr "Malipo: Payment Status"
+
+msgid "plugins.paymethod.malipo.paymentStatus"
+msgstr "Payment Status"
+
+msgid "plugins.paymethod.malipo.paymentSucceeded"
+msgstr "Payment Succeeded"
+
+msgid "plugins.paymethod.malipo.paymentFailed"
+msgstr "Payment Failed"
+
+msgid "plugins.paymethod.malipo.paymentName"
+msgstr "Payment for"
+
+msgid "plugins.paymethod.malipo.amount"
+msgstr "Amount"
+
+msgid "plugins.paymethod.malipo.stripe"
+msgstr "Malipo: Stripe Payment"
+
+msgid "plugins.paymethod.malipo.settings"
+msgstr "Mpesa Payment Instructions"
+
+msgid "plugins.paymethod.malipo.sendNotificationOfPayment"
+msgstr "Send notification of payment"
+
+msgid "plugins.paymethod.malipo.paymentNotification"
+msgstr "Payment Notification"
+
+msgid "plugins.paymethod.malipo.notificationSent"
+msgstr "Payment notification sent"
+
+msgid "plugins.paymethod.malipo.purchase.title"
+msgstr "Title"
+
+msgid "plugins.paymethod.malipo.purchase.fee"
+msgstr "Amount"
+
+
+msgid "plugins.paymethod.malipo.malipo.phoneNumber"
+msgstr "MPESA Number"
+
+msgid "plugins.paymethod.malipo.mpesa"
+msgstr "Lipa na Mpesa"
+
+msgid "plugins.paymethod.malipo.mpesaPaymentNotify.name"
+msgstr "Mpesa Payment Notify"
+
+msgid "plugins.paymethod.malipo.error"
+msgstr "Mpesa Payment Error Occurred "
+
+msgid "plugins.paymethod.malipo.stkRequestedHeader"
+msgstr "Mpesa Payment Requested"
+
+msgid "plugins.paymethod.malipo.transactionStatusHeader"
+msgstr "Mpesa Transaction Status"
+
+msgid "plugins.paymethod.malipo.transactionSucceeded"
+msgstr "Mpesa Transaction Succeeded"
+
+msgid "plugins.paymethod.malipo.transactionFailed"
+msgstr "Mpesa transaction failed with the following message: "
+
+msgid "plugins.paymethod.malipo"
+msgstr "Lipa na Mpesa"
